@@ -2,6 +2,9 @@
 
 Welcome to the Website-to-Chatbot project! This application allows you to create a chatbot that can answer questions based on the content of any website. It leverages the power of OpenAI's language models to provide accurate and relevant responses, making it an excellent tool for improving user engagement on your website.
 
+## Video Preview
+[![Video Preview](https://github.com/zima-0201/Project-Images/blob/main/video%20preview/Py-AI-WebChatbot.jpeg)](https://autobuffy-ebay.s3.eu-north-1.amazonaws.com/Detroit+Axle/Py-AI-WebChatbot.mp4)
+
 ## Features
 
 - **ChatGPT Integration:** Instantly answer your visitors' questions with a personalized chatbot trained on your website content.
